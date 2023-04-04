@@ -1,5 +1,7 @@
 <?php
 
+include 'form.php'; 
+
 //connection string constants
 define('_HOST', 'localhost');
 define('_USERNAME', 'root');

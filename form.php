@@ -1,5 +1,3 @@
-<?php include '01_db.php'; ?>
-
 <!DOCTYPE html>
 <html lang="en">
 
