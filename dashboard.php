@@ -27,9 +27,9 @@ if (!isset($_SESSION['loggedin'])) {
 
         <h1>Welcome: <?php echo $_SESSION['username']; ?>!</h1>
 
-        <form method="POST" action="logout.php">
-            <button type="submit">Logout</button>
-        </form>
+       <form action="logout.php" method="post">
+        <button type="submit">Logout</button>
+       </form>
         
     </body>
 
